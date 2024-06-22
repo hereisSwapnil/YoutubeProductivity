@@ -1,0 +1,7 @@
+.yt-core-image {
+  filter: blur(20px);
+}
+
+.yt-spec-avatar-shape__image {
+  filter: blur(0px);
+}
